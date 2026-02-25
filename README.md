@@ -17,8 +17,8 @@
 | Project                     | Description                                                | Techs                        | Link                                                                                       |
 |-----------------------------|------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------|
 | **LimQt6**                  | Extends PyQt6 with custom widgets and dynamic theming     | Python, PyQt6, Qt            | [View](https://github.com/limkhysok/LimQt6)                                               |
-| **Pyanalypt**     | Full-stack Web app to Analyze Data  | Next.js, Django, PostgreSQL  | [Frontend](https://github.com/limkhysok/pyanalypt_frontend) <br> [Backend](https://github.com/limkhysok/pyanalypt) |
-| **Task Management System**  | Web-based task tracker with CRUD and REST API             | Next.js, Django REST Framework | [View](https://github.com/yourusername/task-manager)                                      |
+| **Pyanalypt**     | Full-stack Web app to Analyze Data  | Next.js, Django, PostgreSQL  | [Frontend](https://github.com/limkhysok/pyanalypt_frontend)x[Backend](https://github.com/limkhysok/pyanalypt) |
+| **School Attendance**  | Full-stack Web app to check student info and student attendance     | Kotlin, Springboot, Jetpack Compose | [MobileApp](https://github.com/limkhysok/mobile-app-attendance))x[Backend](https://github.com/limkhysok/backend-api-attendance)                           |
 | **Automation Testing Suite**| UI test scripts for login and form validation             | Python, Selenium             | [View](https://github.com/yourusername/selenium-testing)                                   |
 | **MyFirstFPS** | A modular First-Person Shooter | C#, .NET, Unity   | [View](https://github.com/limkhysok/MyFirstFPS)                              |
 
