@@ -1,32 +1,24 @@
-<!-- Your Pac-Man contribution graph -->
-## My Contribution Activity
+## 🚀 My Contribution Activity
+
 <div align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soklimkhy/soklimkhy/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soklimkhy/soklimkhy/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/soklimkhy/soklimkhy/output/pacman-contribution-graph.svg">
-  </picture>
+</picture>
 </div>
 
+---
 
-
-
-## Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Project 1** | Your awesome project description | [View](https://github.com/limkhysok/project1) |
-| **Project 2** | Another cool project description | [View](https://github.com/limkhysok/project2) |
-| **Project 3** | Your latest project description | [View](https://github.com/limkhysok/project3) |
-
-</div>
-
-
-
-<div align="center">
-
-### ⭐ If you find my projects useful, please consider giving them a star!
+| Project | Description | Techs | Link |
+|----------|-------------|--------|------|
+| **E-Commerce Platform** | Full-stack application with authentication, product management, cart system, and order processing | Next.js, Django, PostgreSQL | [Frontend Repo](https://github.com/yourusername/ecommerce-frontend) <br> [Backend Repo](https://github.com/yourusername/ecommerce-backend) |
+| **Task Management System** | Task tracking system with CRUD operations and REST API integration | Next.js, Django REST Framework | [View Repository](https://github.com/yourusername/task-manager) |
+| **Automation Testing Suite** | Automated UI test scripts for login, form validation, and functional flows | Python, Selenium | [View Repository](https://github.com/yourusername/selenium-testing) |
+| **Data Analysis Dashboard** | Data cleaning, analysis, and visualization dashboard with reporting features | Python, Pandas, Matplotlib | [View Repository](https://github.com/yourusername/data-analysis-project) |
 
 </div>
