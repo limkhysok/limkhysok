@@ -14,11 +14,12 @@
 
 <div align="center">
 
-| Project | Description | Techs | Link |
-|----------|-------------|--------|------|
-| **E-Commerce Platform** | Full-stack application with authentication, product management, cart system, and order processing | Next.js, Django, PostgreSQL | [Frontend Repo](https://github.com/yourusername/ecommerce-frontend) <br> [Backend Repo](https://github.com/yourusername/ecommerce-backend) |
-| **Task Management System** | Task tracking system with CRUD operations and REST API integration | Next.js, Django REST Framework | [View Repository](https://github.com/yourusername/task-manager) |
-| **Automation Testing Suite** | Automated UI test scripts for login, form validation, and functional flows | Python, Selenium | [View Repository](https://github.com/yourusername/selenium-testing) |
-| **Data Analysis Dashboard** | Data cleaning, analysis, and visualization dashboard with reporting features | Python, Pandas, Matplotlib | [View Repository](https://github.com/yourusername/data-analysis-project) |
+| Project                     | Description                                                | Techs                        | Link                                                                                       |
+|-----------------------------|------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------|
+| **LimQt6**                  | Extends PyQt6 with custom widgets and dynamic theming     | Python, PyQt6, Qt            | [View](https://github.com/limkhysok/LimQt6)                                               |
+| **E-Commerce Platform**     | Full-stack app with auth, products, and order management  | Next.js, Django, PostgreSQL  | [Frontend](https://github.com/yourusername/ecommerce-frontend) <br> [Backend](https://github.com/yourusername/ecommerce-backend) |
+| **Task Management System**  | Web-based task tracker with CRUD and REST API             | Next.js, Django REST Framework | [View](https://github.com/yourusername/task-manager)                                      |
+| **Automation Testing Suite**| UI test scripts for login and form validation             | Python, Selenium             | [View](https://github.com/yourusername/selenium-testing)                                   |
+| **Data Analysis Dashboard** | Dashboard for data cleaning, analysis, and visualization  | Python, Pandas, Matplotlib   | [View](https://github.com/yourusername/data-analysis-project)                              |
 
 </div>
